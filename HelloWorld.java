@@ -10,5 +10,10 @@ public class HelloWorld {
     System.out.println("happy good friday");
     System.out.println("happy good friday");
     System.out.println("happy good friday");
+    System.out.println("happy good friday");
+    System.out.println("happy good friday");
+    System.out.println("happy good friday");
+    System.out.println("happy good friday");
+    System.out.println("happy good friday");
   }
 }
